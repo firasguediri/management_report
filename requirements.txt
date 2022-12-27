@@ -7,6 +7,5 @@ deep_translator
 openai
 tabula
 pandas
-StringIO
 pdf2image
 
